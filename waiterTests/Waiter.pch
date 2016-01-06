@@ -1,0 +1,16 @@
+//
+//  Waiter.pch
+//  waiter
+//
+//  Created by 刘超 on 16/1/6.
+//  Copyright © 2016年 Lc. All rights reserved.
+//
+
+#ifndef Waiter_pch
+#define Waiter_pch
+
+// 获取屏幕的尺寸
+#define kScreenHeight   ([UIScreen mainScreen].bounds.size.height)
+#define kScreenWidth    ([UIScreen mainScreen].bounds.size.width)
+
+#endif /* Waiter_pch */
